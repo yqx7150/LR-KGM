@@ -1,6 +1,7 @@
 # LR-KGM
-Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction
-    
+Low-rank Tensor Assisted K-space Generative Model for Parallel Imaging Reconstruction       
+W. Zhang, Z. Xiao, H. Tao, M. Zhang, X. Xu, Q. Liu    
+https://www.sciencedirect.com/science/article/abs/pii/S0730725X23001224       
     
     
     
